@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# This code is used to show the compounding operation
 # Define the vectors
 plt.arrow(0, 0, 2, 2, ec ='green', head_width = 0.05)
 plt.annotate('A',xy=(1,1.2), color='green')
